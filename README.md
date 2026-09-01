@@ -1,2 +1,0 @@
-# Galaxy-Lift
-Aura farm
